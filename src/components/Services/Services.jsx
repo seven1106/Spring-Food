@@ -1,22 +1,19 @@
 import React from "react";
-import Img from "../../assets/biryani.png";
 import Img2 from "../../assets/biryani2.png";
-import Img3 from "../../assets/biryani4.png";
-import StarRatings from "react-star-ratings";
 const ServicesData = [
   {
     id: 1,
     img: Img2,
     name: "Biryani",
     description:
-      "Lorem ipsum dolor sit amet ipsum dolor sit ametipsum dolor sit amet ipsum dolor sit amet.",
+      "Lorem ipsum dolor sit amet ipsum dolor sit ametipsum dolor sit amet ipsum dolor sit amet.
   },
   {
     id: 2,
     img: Img2,
     name: "Chiken kari",
     description:
-      "Lorem ipsum dolor sit amet ipsum dolor sit ametipsum dolor sit amet ipsum dolor sit amet",
+      "Lorem ipsum dolor sit amet ipsum dolor sit ametipsum dolor sit amet ipsum dolor sit amet
   },
   {
     id: 3,
@@ -38,8 +35,7 @@ const Services = () => {
             </p>
             <h1 className="text-3xl font-bold">Services</h1>
             <p className="text-xs text-gray-400">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-              Perspiciatis delectus architecto error nesciunt,
+              Bring you your favorite, hot and delicious food
             </p>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-14 md:gap-5 place-items-center">

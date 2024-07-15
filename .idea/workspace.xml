@@ -1,37 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc5a76c8-9dd7-4968-b793-8abd04339453" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.old.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/home/Home.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/home/Home.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/navBar/Navbar.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/navBar/Navbar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/theme/darkTheme.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
-    </list>
+    <list default="true" id="cc5a76c8-9dd7-4968-b793-8abd04339453" name="Changes" comment="footer and order delivery" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,11 +65,52 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721050602359</updated>
-      <workItem from="1721050603830" duration="390000" />
+      <workItem from="1721050603830" duration="2423000" />
     </task>
+    <task id="LOCAL-00001" summary="Navbar">
+      <option name="closed" value="true" />
+      <created>1721052685968</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721052685968</updated>
+    </task>
+    <task id="LOCAL-00002" summary="hero banner">
+      <option name="closed" value="true" />
+      <created>1721056147385</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721056147385</updated>
+    </task>
+    <task id="LOCAL-00003" summary="app store download">
+      <option name="closed" value="true" />
+      <created>1721056219781</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721056219781</updated>
+    </task>
+    <task id="LOCAL-00004" summary="footer and order delivery">
+      <option name="closed" value="true" />
+      <created>1721056250981</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721056250981</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Navbar" />
+    <MESSAGE value="hero banner" />
+    <MESSAGE value="app store download" />
+    <MESSAGE value="footer and order" />
+    <MESSAGE value="footer and order delivery" />
+    <option name="LAST_COMMIT_MESSAGE" value="footer and order delivery" />
   </component>
 </project>

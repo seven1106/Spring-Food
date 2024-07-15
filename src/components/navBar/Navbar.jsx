@@ -29,7 +29,7 @@ const Navbar = () => {
             <div>
               <a href="#" className="font-bold text-2xl sm:text-3xl flex gap-2">
                 <img src={Logo} alt="Logo" className="w-10" />
-                Spring Food.
+                SpringFood.
               </a>
             </div>
             <div className="flex justify-between items-center gap-4">
@@ -41,7 +41,7 @@ const Navbar = () => {
                   <li key={menu.id}>
                     <a
                       href={menu.link}
-                      className="inline-block py-4 px-4 hover:text-yellow-500"
+                      className="inline-block py-4 px-4 hover:text-green-500"
                     >
                       {menu.name}
                     </a>

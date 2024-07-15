@@ -35,18 +35,19 @@ const Banner = () => {
               {/* text content section */}
               <div className="flex flex-col justify-center gap-6 sm:pt-0">
                 <h1 className="text-3xl sm:text-4xl font-bold">
-                  Lorem, ipsum dolor.
+                  There's something for everyone!
                 </h1>
                 <p className="text-sm text-gray-500 tracking-wide leading-5">
-                  Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                  Eaque reiciendis inventore iste ratione ex alias quis magni at
-                  optio
+                Order food delivery to your doorstep quickly to satisfy your
+                  hungry stomach with your favorite dishes and lightning-fast
+                  delivery service. 
                   <br />
                   <br />
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Beatae ab sed, exercitationem minima aliquid eligendi
-                  distinctio? Fugit repudiandae numquam hic quo recusandae.
-                  Excepturi totam ad nam velit quasi quidem aspernatur.
+                  SpringFood is currently available in many
+                  provinces and cities in Vietnam: Ho Chi Minh City, Hanoi, Da
+                  Nang, Vung Tau, Binh Duong, Dong Nai, Can Tho, Da Lat, and
+                  more. We are gradually expanding to more areas in the near
+                  future!
                 </p>
                 <div className="flex gap-6">
                   <div>

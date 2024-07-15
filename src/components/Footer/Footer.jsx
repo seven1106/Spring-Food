@@ -16,20 +16,19 @@ const Footer = () => {
           <div className=" py-8 px-4 ">
             <h1 className="sm:text-3xl text-xl font-bold sm:text-left text-justify mb-3 flex items-center gap-3">
               <img src={footerLogo} alt="Logo" className="max-w-[50px]" />
-              Spring Food
+              SpringFood.
             </h1>
             <p className="">
-              Lorem ipsum dolor sit amet consectetur. Lorem ipsum dolor sit amet
-              consectetur adipisicing elit. Possimus, voluptate.{" "}
+            Help make life better every day.{" "}
             </p>
             <br />
             <div className="flex items-center gap-3">
               <FaLocationArrow />
-              <p>Noida, Uttar Pradesh</p>
+              <p>Can Tho, Viet Nam</p>
             </div>
             <div className="flex items-center gap-3 mt-3">
               <FaMobileAlt />
-              <p>+91 123456789</p>
+              <p>+84 123456789</p>
             </div>
             {/* Social Handle */}
             <div className="flex items-center gap-3 mt-6">
@@ -89,7 +88,7 @@ const Footer = () => {
         </div>
         <div>
           <div className="text-center py-10 border-t-2 border-gray-300/50">
-            @copyright 2024 All rights reserved || Made with ❤️ by Dilshad
+            @copyright 2024 All rights reserved || Made with ❤️ by Seven1106
           </div>
         </div>
       </section>
