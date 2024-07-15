@@ -1,0 +1,10 @@
+li{
+    list-style-type: none;
+    display: inline;
+    margin-right: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}
